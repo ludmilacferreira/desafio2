@@ -1,0 +1,6 @@
+from classes import Jokenpo
+
+p1 = Jokenpo("lud", "lou")
+
+p1.jogar("pedra", "papel")
+p1.resultado()
